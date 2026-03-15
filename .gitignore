@@ -1,0 +1,83 @@
+# ----------------------------
+# Altium Designer Generated Files
+# ----------------------------
+
+# Compiled outputs
+*.SchDocPreview
+*.PcbDocPreview
+*.SchDoc.Zip
+*.PcbDoc.Zip
+*.PrjPcbStructure
+
+# Output / fabrication folders
+Project Outputs for*
+Outputs
+Fabrication
+Assembly
+Generated
+CAMtastic*
+
+# CAM / Gerber / NC Drill
+*.Cam
+*.OutJob
+*.rep
+*.csv
+*.txt
+*.drl
+*.gbr
+*.ger
+*.gbx
+*.gbl
+*.gtl
+*.gto
+*.gbo
+*.gbs
+*.gm1
+*.gko
+
+# Simulation
+*.sdf
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+
+# Autosave / recovery
+*AutoSave*
+*.PcbDocRecovery
+*.SchDocRecovery
+
+# History folders
+History/
+*.History
+
+# Altium workspace / user settings
+*.DsnWrk
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PrjPcbStructure
+
+# Compiler cache
+*.Cache
+*.CacheData
+
+# Local user preferences
+*.LocalHistory
+*.Lck
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Python (if scripts exist later)
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
